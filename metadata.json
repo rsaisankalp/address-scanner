@@ -1,0 +1,7 @@
+{
+  "name": "Indian ID Address Extractor",
+  "description": "Scans Indian ID cards (Aadhaar, Voter ID, DL, etc.), extracts addresses using Gemini Flash 2.5, and validates visibility.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
